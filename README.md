@@ -23,4 +23,4 @@
 
 ![josuehdz0's Stats](https://github-readme-stats.vercel.app/api?username=josuehdz0&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=josuehdz0&" alt="josuehdz0" /></p>
+![josuehdz0's Streak](https://github-readme-streak-stats.herokuapp.com/?user=josuehdz0&theme=vue-dark&hide_border=true)
