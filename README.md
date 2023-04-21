@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Josue Hernandez</h1>
+ <div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hey!%20I%20am%20Josué.&fontSize=90">
+  </div>
 <h3 align="center">A passionate full stack developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=josuehdz0&label=Profile%20views&color=0e75b6&style=flat" alt="josuehdz0" /> </p>
