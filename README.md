@@ -2,7 +2,7 @@
  <div align="center">
     <h1><b>Hey! I'm Josué 🌴</b></h1>
   </div>
-<h3 align="">Welcome to my Github Profile! I'm a Full-Stack Software Developer that enjoys creating great experiences for all users as well as playing music in my spare time. I have extensive knowledge of Javascript, Vue, CSS, HTML, C#, node.js, and MySQL, and I am excited to utilize these skills to develop cutting-edge software. With a proven track record of providing exceptional customer service and technical agility, I am confident in my ability to collaborate with a team to deliver high-quality results. I am committed to continuing to learn and grow in the field of web development and am eager to contribute to your company's success.</h3>
+<h3 align="">Welcome to my Github Profile! I'm a UX/UI Designer that enjoys creating great experiences for all users as well as playing music in my spare time. I have extensive knowledge of Javascript, Vue, CSS, HTML, C#, node.js, and MySQL, and I am excited to utilize these skills to develop cutting-edge software. With a proven track record of providing exceptional customer service and technical agility, I am confident in my ability to collaborate with a team to deliver high-quality results. I am committed to continuing to learn and grow in the field of web development and am eager to contribute to your company's success.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=josuehdz0&label=Profile%20views&color=0e75b6&style=flat" alt="josuehdz0" /> </p>
 
